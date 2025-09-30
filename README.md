@@ -284,7 +284,7 @@ predict_image(model, image_index=80, dataset=test_dataset)
 
 ## Training Loss per Epoch
 
-![alt text](image.png)
+![alt text](image-5.png)
 
 
 ## Confusion Matrix
